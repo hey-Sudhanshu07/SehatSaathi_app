@@ -1,6 +1,9 @@
 Live app- https://v0-sehatsaathi.vercel.app/
 # SehatSaathi App
 
+<img width="1214" height="562" alt="image" src="https://github.com/user-attachments/assets/5186da99-9475-4e18-b796-30b4ab465538" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
 
 ## Built with v0
